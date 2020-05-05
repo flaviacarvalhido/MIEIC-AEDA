@@ -1,0 +1,66 @@
+Dominos
+Rua Reitor Teixeira de Guedes, 34, 8000-463, Faro
+Pizza Pepperoni Familiar/Fast Food/15.00, Pizza Carbonara Familiar/Fast Food/15.00, Pizza Havaiana Media/Fast Food/9.00, Pao de alho/Entrada/3.00, Pizza 4 Estacoes Familiar/Fast Food/16.00, Pizza 4 Queijos Familiar/Fast Food/14.00, Pizza 4 Queijos Familiar/Fast Food/14.00, Pizza Margarita Media/Fast Food/8.00
+04:00
+active
+::::::::::
+Cantina da Tina
+Canto das Ruas, 22, 6900-465, Faro
+Massa Bolonhesa/Italiano/6.00, Pasteis/Vegetariano/1.90
+21:00
+active
+::::::::::
+Caldeirada Algarvia
+Praca Dom Afonso III, 12, 8000-149, Faro
+Cataplana do mar/Cozinha Portuguesa/25.00, Cataplana de polvo/Cozinha Portuguesa/24.00, Salada quente/Salada/3.00, Queijo de cabra curado/Entrada/6.00, Tiborna/Entrada/4.00, Dom Rodrigo/Sobremesa/3.65, Pudim de laranja/Sobremesa/3.55
+23:00
+active
+::::::::::
+Ceu do A‡ucar
+Esquina Antonio Barroso, 81, 6034-687, Olhao
+Nata/Pastelaria/1.00, Bolo/Pastelaria/20.00
+20:00
+active
+::::::::::
+O Poejo
+Rua Poeta Antonio Aleixo, 33, 8005-222, Faro
+Cataplana a Algarvia/Cozinha Portuguesa/40.00, Salada quente/Salada/3.00, Ovas de choco/Entada/14.00, Queijo de cabra curado/Entrada/6.00, Carapaus alimados/Entrada/6.00, Tiborna/Entrada/4.00, Dom Rodrigo/Sobremesa/3.65, Pudim de laranja/Sobremesa/3.55, Torta de claras/Sobremesa/3.00, Sopa do dia/Sopa/2.00
+22:00
+active
+::::::::::
+Marisqueira do Mar
+Rua Inundada, 78, 6049-658, Loule
+Camarao Tigre/Marisco/10.00, Sapateira/Marisco/15.00, Ameijoas/Marisco/10.00
+23:30
+active
+::::::::::
+Vieira da Terra
+Rua do Sol, 45, 6080-753, Sao Bras de Alportel
+Frango de Churrasco/Carne/7.00, Bife da vazia maturado/Carne/12.00, Bitoque de vitela/Carne/8.00, Costeleta de novilho/Carne/11.00
+00:00
+active
+::::::::::
+Belmonte Restaurante
+Travessa Castilho, 6, 8000-500, Faro
+Lasanha bolonhesa/Cozinha Italiana/8.00, Penne com salmao/Cozinha Italiana/8.00, Torteloni com espinafres e queijo ricota/Cozinha Italiana/8.00, Espargete Carbonara/Cozinha Italiana/8.00, Pizza Romana/Cozinha Italiana/11.00, Pizza Marianara/Cozinha Italiana/11.00
+23:00
+active
+::::::::::
+Almeida
+Rua Assis Vaz, 12, 6080-753, Sao Bras de Alportel
+Bife a portuguesa/Carne/14.00, Bife pimenta/Carne/10.00, Bife com cogumelos/Carne/9.00, Bife a cortador/Carne/11.00, Bife com companhia/Carne/10.00, Molotof/Sobremesa/4.00
+00:00
+active
+::::::::::
+Arroz e Companhia
+Rua Camilo Castelo Branco, 23, 6049-658, Loule
+Mil folhas de queijo de cabra/Entrada/5.50, Hummus/Entrada/4.00, Risotto de camarao/Marisco/12.00, Almondegas de bacalhau/Peixe/12.00, Perna de cordeiro/Carne/14.00, Bochechas de porco preto/Carne/13.00, Salada Arco Iris/Salada/8.00, Salada Mediterranea/Salada/7.50, Mousse de Chocolate/Sobremesa/4.20
+23:00
+active
+::::::::::
+Restaurante Tua
+Rua Conselheiro Sebastiao Teles, 8A, 8000-256, Faro
+Caril de legumes/Vegetariano/12.00, Falafel com legumes salteados/Vegetariano/11.00, Peito de frango recheado com figos/Carne/12.20, Bife da vazia/Carne/12.20, Salada mista/Salada/3.00, Mousse de citrinos/Sobremesa/2.65
+22:30
+active
+::::::::::

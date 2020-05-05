@@ -1,0 +1,19 @@
+Cantina FEUP
+Travessa dos Lamas, 22, 4200-465, Porto
+Arroz sem sal/Dieta/2.70, Couves/Vegetariano/2.70
+::::::::::
+Temako
+Rua sem Fim, 57, 4200-566, Porto
+Temaki/Japonês/3.40, Sashimi/Japonês/2.50
+::::::::::
+Casa dos Bifes
+Rua da Restauração, 68, 4200-675, Maia
+Bife/Carne/5.60, Bifinho/Carne/3.60
+::::::::::
+Casa do Peixe
+Rua que Cheira Mal, 48, 4200-445, Matosinhos
+Sardinha/Peixe/10.00, Salmão/Peixe/7.00
+::::::::::
+Tasco
+Rua Estranha, 7, 4203-596, Gondomar
+Bitoque/Carne/5.00, Lombo Assado/Carne/8.00

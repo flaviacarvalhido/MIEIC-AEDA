@@ -1,0 +1,80 @@
+1
+Rita Jesus - 283728374
+Yolanda Felix - 383364776
+Sushi Karu
+Temaki/1, Sashimi/1
+09:00-06/06/2019
+20.00
+not ok - late delivery
+2.50
+::::::::::
+2
+Amadeus - 294749371
+Yolanda Felix - 383364776
+McDonalds
+BigMac/1, Sopa/2
+12:00-09/11/2019
+10.85
+ok - cold food
+2.00
+::::::::::
+3
+Rita Jesus - 283728374
+Lara Kerastase - 284876454
+KFC
+Wrap/3, Chickenburger/2
+16:30-05/11/2019
+39.00
+ok - No comment
+No rating
+::::::::::
+4
+Rita Jesus - 283728374
+Yolanda Felix - 383364776
+Sushi Karu
+Sashimi/2
+22:43-16/11/2019
+21.00
+ok - No comments
+4.00
+::::::::::
+5
+Amadeus - 294749371
+Yolanda Felix - 383364776
+McDonalds
+BigMac/3
+12:12-04/01/2020
+19.55
+ok - No comments
+4.00
+::::::::::
+6
+Rita Jesus - 283728374
+Yolanda Felix - 383364776
+McDonalds
+Salada Caesar de frango/6, Sopa/9
+12:13-04/01/2020
+45.50
+ok - No comments
+4.00
+::::::::::
+7
+Rita Jesus - 283728374
+Yolanda Felix - 383364776
+Sushi Karu
+Temaki/5, Sashimi/4
+12:06-04/01/2020
+69.00
+ok - No comments
+No rating
+::::::::::
+8
+Rita Jesus - 283728374
+Yolanda Felix - 383364776
+Os Arcos
+Lombinhos de lagosta/4
+12:07-04/01/2020
+121.00
+not ok - Products damaged!
+No rating
+::::::::::

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shit/Desktop/aeda1920_fp02/Tests/veiculo.cpp
+veiculo.h
+C:/Users/shit/Desktop/aeda1920_fp02/Tests/veiculo.h
+iostream
+-
+
+C:/Users/shit/Desktop/aeda1920_fp02/Tests/veiculo.h
+string
+-
+

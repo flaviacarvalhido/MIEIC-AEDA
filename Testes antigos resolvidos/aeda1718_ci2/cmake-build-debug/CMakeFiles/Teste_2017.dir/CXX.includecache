@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shit/Desktop/aeda1718_ci2/Doctor.h
+string
+-
+queue
+-
+
+C:/Users/shit/Desktop/aeda1718_ci2/Hospital.cpp
+Hospital.h
+C:/Users/shit/Desktop/aeda1718_ci2/Hospital.h
+algorithm
+-
+stack
+-
+iostream
+-
+
+C:/Users/shit/Desktop/aeda1718_ci2/Hospital.h
+list
+-
+stack
+-
+Doctor.h
+C:/Users/shit/Desktop/aeda1718_ci2/Doctor.h
+

@@ -1,0 +1,26 @@
+Base Faro
+Ilha Deserta, La no meio, 8005-554, Faro
+41.411111111/54.544444444
+São Brás de Alportel, Olhão, Loulé
+Clients_Faro.txt
+Restaurants_Faro.txt
+Employees_Faro.txt
+Deliveries_Faro.txt
+::::::::::
+Base Lisboa
+Praça da Constituição de, 1976, 1249-068, Lisboa
+41.411111111/54.544444444
+Almada, Odivelas, Oeiras, Amadora, Loures
+Clients_Lisboa.txt
+Restaurants_Lisboa.txt
+Employees_Lisboa.txt
+Deliveries_Lisboa.txt
+::::::::::
+Base Porto
+Rua Dr. Roberto Frias, Aulas, 4200-465, Porto
+41.411111111/54.544444444
+Matosinhos, Gaia, Maia, Gondomar
+Clients_Porto.txt
+Restaurants_Porto.txt
+Employees_Porto.txt
+Deliveries_Porto.txt

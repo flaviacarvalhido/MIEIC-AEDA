@@ -1,0 +1,58 @@
+﻿  Address.cpp
+  Base.cpp
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Base.h(360,11): warning C4101: 'p': unreferenced local variable
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Base.cpp(275,33): warning C4101: 'e': unreferenced local variable
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Base.cpp(286,38): warning C4101: 'e': unreferenced local variable
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Base.cpp(346,7): warning C4101: 'h': unreferenced local variable
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Base.cpp(395,7): warning C4101: 'h': unreferenced local variable
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Base.cpp(959,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Clients.cpp
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Base.cpp(963,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Date.cpp
+  Employees.cpp
+  Extra_functions.cpp
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Clients.cpp(49,40): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Extra_functions.cpp(362,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Extra_functions.cpp(433,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Extra_functions.cpp(434,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Menus.cpp
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Extra_functions.cpp(538,33): warning C4615: #pragma warning: unknown user warning type
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Base.h(360,11): warning C4101: 'p': unreferenced local variable
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(99,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(1818,40): warning C4101: 'e': unreferenced local variable
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(1821,35): warning C4101: 'i': unreferenced local variable
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2139,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2140,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2141,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2142,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2143,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2144,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2145,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2146,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2147,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2148,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2149,10): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2150,10): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2151,10): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2253,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2254,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2255,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2256,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2257,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2258,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2259,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2260,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2261,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2262,9): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2263,10): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2264,10): warning C4309: 'argument': truncation of constant value
+  Restaurants.cpp
+  Tech.cpp
+  Util.cpp
+  main.cpp
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(2265,10): warning C4309: 'argument': truncation of constant value
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Base.h(360,11): warning C4101: 'p': unreferenced local variable
+  Generating Code...
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\main.cpp(43,6): warning C4101: 'option': unreferenced local variable
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\Menus.cpp(1262): warning C4715: 'Base::newEmployee': not all control paths return a value
+  projeto aeda.vcxproj -> C:\Users\Flávia Carvalhido\Desktop\projeto aeda\x64\Debug\projeto aeda.exe

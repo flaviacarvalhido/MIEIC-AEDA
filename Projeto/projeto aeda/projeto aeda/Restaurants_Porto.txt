@@ -1,0 +1,66 @@
+PizzaHut
+Avenida do Brasil, 561, 4150-153, Porto
+Cheese Bytes/Entrada/3.95, Pizza 4 Estacoes Media/Fast Food/11.00, Pizza BaconLovers Media/Fast Food/13.00, Pizza Barbecue Familiar/Fast Food/22.00, Pizza Texas Carbonara Familiar/Fast Food/22.00, Pizza Portuguesa Familiar/Fast Food/19.00
+04:00
+active
+::::::::::
+Cantina Feup
+Travessa dos Lamas, 22, 4200-465, Porto
+Couves/Vegetariano/2.70, Arroz sem sal/Dieta/2.70
+21:00
+active
+::::::::::
+Coma
+Rua de Rodrigues Sampaio, 156, 4067-588, Porto
+Tempura de chocolate/Sobremesa/4.00, Magret de pato/Carne/13.00, Filetes de polvo/Peixe/12.00, Atum selado/Peixe/12.00, Rosbife/Carne/12.00
+02:00
+active
+::::::::::
+Casa do Peixe
+Rua que Cheira Mal, 48, 4200-445, Matosinhos
+Salmao/Peixe/7.00, Sardinha/Peixe/10.00
+23:00
+active
+::::::::::
+Casa dos Bifes
+Rua da Restauracao, 68, 4200-675, Maia
+Bife/Carne/5.60, Bifinho/Carne/3.60
+23:30
+active
+::::::::::
+Terra
+Rua do Padrao, 103, 4150-657, Porto
+Salmao tostado/Peixe/17.00, Codorniz recheada/Carne/13.00, Carpaccio de novilho braseado/Carne/11.00, Tagliatelle al pesto/Cozinha Italina/11.00, Salada de tomate/Salada/8.00, Gelado de chocolate/Sobremesa/4.00
+23:00
+active
+::::::::::
+Virtude
+Passeio das Virtudes, 33, 4050-578, Porto
+Bacalhau com Broa/Peixe/12.00, Bacalhau Confitado/Peixe/12.00, Risotto de Vitela/Carne/12.00, Secretos de Porco Preto/Carne/11.00, Cheesecake/Sobremesa/4.00
+01:00
+active
+::::::::::
+Temako
+Rua sem Fim, 57, 4200-566, Porto
+Temaki/Sushi/3.40, Sashimi/Sushi/5.50
+24:00
+active
+::::::::::
+Tasco
+Rua Estranha, 7, 4203-596, Gondomar
+Bitoque/Carne/5.00, Lombo Assado/Carne/8.00
+23:00
+active
+::::::::::
+Casario
+Praca Ribeira, 19, 4050-044, Porto
+Robalo marinado com ervas frescas/Peixe/14.00, Terrina de Foie Gras/Carne/11.00, Arroz de Peixe com Bivalves/Peixe/22.00, Porco com Milhos de Paio e Couve Lombarda/Carne/20.00, Leite Creme com Pinhoes e gelado de Canela/Sobremesa/6.00
+22:30
+active
+::::::::::
+Apego
+Rua de Santa Catarina, 1198, 4000-099, Porto
+Lulas com Coco/Peixe/15.00, Cordeiro de Leite/Carne/14.00, Nougat com Nozes/Sobremesa/6.00
+23:00
+active
+::::::::::

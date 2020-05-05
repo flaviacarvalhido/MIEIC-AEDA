@@ -1,0 +1,66 @@
+McDonalds
+Fast Food Corner, 69, 4000-675, Lisboa
+Sopa/Sopa/1.50, Salada Caesar de frango/Salada/4.50, BigMac/Fast Food/4.85
+06:00
+active
+::::::::::
+Sushi Karu
+Rua Cara, 57, 4000-987, Oeiras
+Sashimi/Sushi/9.00, Temaki/Sushi/6.00
+24:00
+active
+::::::::::
+KFC
+Rua dos Frangos, 789, 4000-445, Odivelas
+Wrap/Fast Food/8.00, Chickenburger/Fast Food/5.00, Cheurros/Sobremesa/3.00
+04:00
+active
+::::::::::
+Os Arcos
+Rua Costa Pinto, 47, 2770-044, Oeiras
+Lombinhos de lagosta/Marisco/29.50, Strogonoff de vitela/Carne/18.00, Filetes de pescada/Peixe/18.00, Escalopes do lombo de vitela/Carne/17.50, Lombinhos de porco na brasa/Carne/14.00, Presunto pata Negra/Entrada/11.50, Trouxas de ovos/Sobremesa/8.00
+24:00
+active
+::::::::::
+Cantina Tecnico
+Pra€§a Estranha, 28, 4000-489, Lisboa
+Arros com carne/Carne/4.00, Feijoada de tofu/Vegetariano/5.00
+21:00
+active
+::::::::::
+Tasco Perigo
+Rua Escura, 7, 4203-596, Almada
+Bitoque/Carne/8.00, Lombo Assado/Carne/7.00, Cheesecake/Sobremesa/4.00
+02:00
+active
+::::::::::
+Lisboa a Noite
+Rua das Gaveas, 69, 1200-284, Lisboa
+Peixinhos da horta/Vegetariano/6.00, Magret de pato/Carne/12.00, Bacalhau com broa/Peixe/12.00, Plumas de porco preto/Carne/12.50, Risoto de legumes/Vegetariano/10.50
+23:30
+active
+::::::::::
+Palacio Chiado
+Rua do Alecrim, 70, 1200-016, Lisboa
+Sopa de Peixe/Sopa/7.00, Sopa de Cebola/Sopa/6.50, Polvo a Lagareiro/Cozinha Portuguesa/12.50, Picanha/Carne/11.50, Bife da Vazia Grelhado/Carne/11.50, Tarte de Lima/Sobremesa/4.50
+23:00
+active
+::::::::::
+Seen
+Avenida da Liberdade, 185, 1269-050, Lisboa
+Gunkan trufado/Sushi/12.00, Ura veg/Vegetariano/8.50, Nigiri de espargos/Vegetariano/7.50, Hossomaki maguro/Sushi/11.00, Moriwase seen/Sushi/50.00, Coco loco/Sobremesa/4.50, Souffle de doce de leite/Sobremesa/10.00
+23:00
+active
+::::::::::
+Oficina da Carne
+Rua Candido dos Reis, 80, 2800-270, Almada
+Quesadillas de frango/Entrada/7.00, Picanha black angus/Carne/8.90, Lombo de salmao/Peixe/10.90, Bacon cheese burger/Carne/11.00, BBQ burger/Carne/9.50, Salada Caesar de frango/Salada/8.50, Brownie/Sobremesa/4.00
+23:00
+active
+::::::::::
+Quinta do Tagus
+Azinhaga do Montinhoso, Costas de Cao, 2825-045, Almada
+Carpaccio de Novilho/Entrada/10.50, Barriga de Porco/Carne/18.90, Filete de Robalo/Peixe/20.00, Fillet Mignon/Carne/29.00, Magret de Pato/Carne/19.50, Rolinhos de Courgette com Requeijao/Vegetariano/9.50, Banoffe/Sobremesa/9.00
+23:00
+active
+::::::::::

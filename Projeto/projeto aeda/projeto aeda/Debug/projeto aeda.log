@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\main.cpp(132,33): warning C4615: #pragma warning: unknown user warning type
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\main.cpp(181,33): warning C4615: #pragma warning: unknown user warning type
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\main.cpp(233,33): warning C4615: #pragma warning: unknown user warning type
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\main.cpp(358,33): warning C4615: #pragma warning: unknown user warning type
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\main.cpp(436,33): warning C4615: #pragma warning: unknown user warning type
+C:\Users\Flávia Carvalhido\Desktop\projeto aeda\projeto aeda\main.cpp(271,6): warning C4101: 'option': unreferenced local variable
+  projeto aeda.vcxproj -> C:\Users\Flávia Carvalhido\Desktop\projeto aeda\Debug\projeto aeda.exe

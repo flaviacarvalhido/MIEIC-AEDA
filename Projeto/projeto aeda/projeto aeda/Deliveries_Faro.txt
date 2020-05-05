@@ -1,0 +1,60 @@
+1
+Ruben Runner - 274863846
+ - 0
+Cantina da Tina
+Massa Bolonhesa/1, Pasteis/1
+02:08-07/06/2019
+11.00
+ok - sure
+3.00
+::::::::::
+2
+Ruben Runner - 274863846
+ - 0
+Dominos
+Pizza Havaiana Media/1, Pao de alho/4
+23:06-16/11/2019
+26.00
+ok - No comments
+No rating
+::::::::::
+3
+Ruben Runner - 274863846
+ - 0
+Caldeirada Algarvia
+Cataplana do mar/1, Salada quente/1
+23:11-16/11/2019
+33.00
+ok - 
+0.00
+::::::::::
+4
+Ruben Runner - 274863846
+Liliana das Direitas - 285759495
+Ceu do A‡ucar
+Nata/97
+12:09-04/01/2020
+100.00
+ok - No comments
+5.00
+::::::::::
+5
+Andre Pires - 315527864
+Liliana das Direitas - 285759495
+O Poejo
+Cataplana a Algarvia/8
+12:18-04/01/2020
+325.00
+ok - No comments
+3.00
+::::::::::
+6
+Andre Pires - 315527864
+Liliana das Direitas - 285759495
+Dominos
+Pizza Havaiana Media/5, Pizza Pepperoni Familiar/13, Pizza Carbonara Familiar/7
+12:18-04/01/2020
+350.00
+not ok - Client didn't pay!
+No rating
+::::::::::

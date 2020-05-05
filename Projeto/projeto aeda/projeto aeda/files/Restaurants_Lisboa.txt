@@ -1,0 +1,19 @@
+Cantina Tecnico
+Praça Estranha, 28, 4000-489, Lisboa
+Arros com carne/Carne/4.00, Feijões/Vegetariano/5.00
+::::::::::
+Sushi Karu
+Rua Cara, 57, 4000-987, Oeiras
+Temaki/Japonês/6.00, Sashimi/Japonês/9.00
+::::::::::
+McDonalds
+Fast Food Corner, 69, 4000-675, Lisboa
+BigMac/Carne/4.85, Sopa/Vegetariano/1.50
+::::::::::
+KFC
+Rua dos Frangos, 789, 4000-445, Odivelas
+Wrap/Carne/8.00, Hamburguer/Carne/5.00
+::::::::::
+Tasco Perigo
+Rua Escura, 7, 4203-596, Almada
+Bitoque/Carne/2.00, Lombo Assado/Carne/5.00

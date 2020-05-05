@@ -1,0 +1,60 @@
+Joaquim Alberto
+123456789
+password
+22/11/1900
+9000
+Admin
+Boss
+Tesla, S, 01/01/2050, 50000, 0, 20:39-03/01/2020
+Working
+::::::::::
+Maria Teresa
+298494986
+123456
+05/08/1967
+3000
+Admin
+Client Manager
+Audi, A4, 06/07/2010, 75000, 0, 20:38-03/01/2020
+Working
+::::::::::
+Marta Viela
+298894987
+1234567
+07/09/1978
+2000
+Admin
+Restaurant Manager
+BMW, M4, 09/10/2015, 100000, 0, 19:34-03/01/2020
+Working
+::::::::::
+Mario Fontainhas
+298987475
+1234567
+30/09/1989
+2000
+Admin
+Maintenance Manager
+Renault, Clio, 07/12/2016, 90000, 0, 20:37-03/01/2020
+Working
+::::::::::
+Lil Peep
+284597938
+qwerty
+19/09/1987
+1000
+Deliverer
+2, 3, 4, 13, 14, 15, 16
+Fiat, Punto, 16/07/2000, 80000, 4, 20:36-03/01/2020
+Working
+::::::::::
+Noah Lovadeus
+987654321
+souzuca
+14/11/2019
+900
+Deliverer
+1, 5, 6, 7, 8, 9, 10, 11, 12
+Frozen, Motofiber, 25/04/1974, 60000, 9, 20:27-03/01/2020
+Working
+::::::::::

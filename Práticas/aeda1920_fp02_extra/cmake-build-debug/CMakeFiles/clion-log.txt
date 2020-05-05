@@ -1,0 +1,5 @@
+"C:\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\shit\Desktop\aeda1920_fp02_extra
+-- Could NOT find PythonInterp (missing: PYTHON_EXECUTABLE) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/shit/Desktop/aeda1920_fp02_extra/cmake-build-debug

@@ -1,0 +1,32 @@
+Joaquim Alberto
+123456789
+29/02/1900
+9000.00
+Admin
+CEO
+Tesla, S, 01/01/2050
+::::::::::
+Maria Teresa
+298494986
+05/08/1967
+3000.00
+Admin
+RH
+Audi, A4, 06/07/2010
+::::::::::
+::::::::::
+Lil Peep
+284597938
+19/09/1987
+1000.00
+Deliverer
+2, 3
+Fiat, Punto, 16/07/2000
+::::::::::
+Noah Lovadeus
+987654321
+14/11/2019
+-90.0
+Deliverer
+1
+Frozen, Motofiber, 25/04/1974

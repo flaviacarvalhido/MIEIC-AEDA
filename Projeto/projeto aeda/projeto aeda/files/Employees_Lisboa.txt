@@ -1,0 +1,32 @@
+Maria Felizarda
+298474004
+30/07/2000
+8000.00
+Admin
+CEO
+BMW, Z4, 07/09/2016
+::::::::::
+Yolanda Gerundio
+284395939
+08/12/1989
+4000.00
+Admin
+Manager
+Mercedes, C 250, 03/08/2017
+::::::::::
+::::::::::
+Rita Jesus
+283728374
+09/06/2001
+700.00
+Deliverer
+1, 3
+Opel, Corsa, 09/06/2001
+::::::::::
+Amadeus
+294749371
+08/05/1989
+900.00
+Deliverer
+2
+Seat, Ibiza, 08/07/2011

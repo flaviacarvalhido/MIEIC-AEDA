@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shit/Desktop/aeda1819_ci1_googleTest/Tests/Account.h
+string
+-
+iostream
+-
+vector
+-
+set
+-
+
+C:/Users/shit/Desktop/aeda1819_ci1_googleTest/Tests/Bank.cpp
+Bank.h
+C:/Users/shit/Desktop/aeda1819_ci1_googleTest/Tests/Bank.h
+algorithm
+-
+string
+-
+vector
+-
+
+C:/Users/shit/Desktop/aeda1819_ci1_googleTest/Tests/Bank.h
+Account.h
+C:/Users/shit/Desktop/aeda1819_ci1_googleTest/Tests/Account.h
+vector
+-
+BankOfficer.h
+C:/Users/shit/Desktop/aeda1819_ci1_googleTest/Tests/BankOfficer.h
+
+C:/Users/shit/Desktop/aeda1819_ci1_googleTest/Tests/BankOfficer.h
+Account.h
+C:/Users/shit/Desktop/aeda1819_ci1_googleTest/Tests/Account.h
+string
+-
+vector
+-
+
